@@ -1,0 +1,7 @@
+1> fs
+
+2> discord.js
+
+3>dotenv
+
+4>express
